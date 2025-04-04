@@ -1,0 +1,4 @@
+bokeh~=2.0
+networkx~=2.0
+numpy~=1.0
+matplotlib~=3.0
